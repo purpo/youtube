@@ -1,0 +1,21 @@
+{
+    "name": "esoft/yii2-youtube",
+    "description": "Youtube api Wrapper",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paolo",
+            "email": "paolo@esoft.it"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "esoft\\youtube\\": ""
+        }
+    }
+}
